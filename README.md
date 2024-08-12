@@ -1,2 +1,1 @@
-![Image alt](https://drive.google.com/file/d/1DE0Ycj5A6jT58IMWNw3y1AUHN-XsewAt/view?usp=sharing)
-<image src="[https://picsum.photos/800/600](https://drive.google.com/file/d/1DE0Ycj5A6jT58IMWNw3y1AUHN-XsewAt/view?usp=sharing)" alt="Описание картинки">
+![Image alt](https://github.com/dimosaintp/AQA-85-Homework-7-1-Docker/blob/3463b4035b0366d37007a0ff0adcd21b03d5244c/Screenshot.png)
